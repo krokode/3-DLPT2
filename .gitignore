@@ -1,5 +1,5 @@
 # Unnecessary folders
-Module_1/
+Module_*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
